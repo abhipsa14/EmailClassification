@@ -1,2 +1,2 @@
 # EmailClassification
-Classification model that classifies spam and ham
+A learning project on classification, which classifies spam and ham mails.
